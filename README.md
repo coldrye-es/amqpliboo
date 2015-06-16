@@ -1,2 +1,2 @@
 # amqpliboo
-Object oriented wrapper for ampqlib's promises based API
+Object oriented wrapper for amqplib's promises based API
